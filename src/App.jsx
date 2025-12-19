@@ -16,7 +16,6 @@ import Layout from "./layout/Layout";
  * account will be able to upload and manage their own activities.
  */
 
-//modify App to use Routes and Route components
 export default function App() {
   return (
     <Routes>
